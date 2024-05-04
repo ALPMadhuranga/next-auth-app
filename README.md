@@ -17,7 +17,7 @@ This is a simple Login application with credentials and github.
 ### Install dependencies
 - Clone the repository: 
 ```
-    git clone https://github.com/ALPMadhuranga/next-auth.git
+    https://github.com/ALPMadhuranga/next-auth-app.git
 ```
 - Install dependencies:
 ```
